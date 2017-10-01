@@ -22,3 +22,7 @@ h1 {
   font-size: 21px;
   color:gray;
 }
+.copyright {
+  text-align: Right;
+  color: gray;
+}
